@@ -1,0 +1,27 @@
+.segitiga {
+    background-color: rgb(83, 152, 241);
+    width: 35%;
+    height: 250px;
+    margin-top: 50px;
+    margin-left: 450px;
+    margin-right: 50px;
+    border-radius: 50px;
+    
+}
+
+.tabel{
+    margin-top: initial;
+    margin: auto;
+    
+}
+
+.kotak {    
+    width: 45%;
+    margin-left: 220px;
+    margin-top: 30px;
+    background-color: none;
+}
+body{
+    background-image: url(122w.jpg);
+    background-size: cover;
+}
